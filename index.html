@@ -176,6 +176,26 @@
             display: block;
         }
 
+        /* --- New Premium Visitor Bar Style --- */
+        .visitor-bar {
+            background-color: #141822;
+            padding: 8px 15px;
+            border-bottom: 1px solid #242c3d;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 12px;
+            color: #8899a6;
+        }
+        .visitor-bar-title {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .visitor-bar-title i {
+            color: #f5b041;
+        }
+
         /* Sidebar Scrollable Area */
         .zoom-sidebar {
             flex: 1;
@@ -393,17 +413,24 @@
 </head>
 <body>
 
-    <header>📺 Free IPTV </header>
+    <header>📺 Free IPTV 📺</header>
 
     <div class="main-container">
         <div class="playlist-section">
             <div class="search-box-container">
                 <i class="fa-solid fa-magnifying-glass search-icon"></i>
                 <input type="text" id="search-input" class="search-input" placeholder="Search channels..." />
-                <a href="https://t.me/ashrafulabir114" target="_blank" class="telegram-link" title="Join with me for all Updates & feedback">
+                <a href="https://t.me/ashraful114_official" target="_blank" class="telegram-link" title="Join with us for all Updates & feedback">
                     <i class="fa-brands fa-telegram"></i>
-                    <span class="telegram-text"> Contract </span>
+                    <span class="telegram-text">Contract</span>
                 </a>
+            </div>
+
+        
+            <div class="visitor-bar">
+                <span class="visitor-bar-title"><i class="fa-solid fa-users"></i> Live Visitors</span>
+         
+                <a href="https://info.flagcounter.com/yS7M"><img src="https://2s1b.flagcounter.com/countxl/yS7M/bg_141822/txt_FFFFFF/border_141822/columns_1/maxflags_1/viewers_3/labels_0/pageviews_0/flags_0/percent_0/" alt="Visitor Counter" border="0" style="display: block; max-height: 14px;"></a>
             </div>
             
             <div class="zoom-sidebar" id="zoom-sidebar-container">
