@@ -1,12 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="T Sports" tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="Fifa world cup - Live 🔴",LAS 
+#EXTINF:-1 tvg-id="LAS" tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="Fifa world cup - Live 🔴",LAS 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 
+#EXTINF:-1 tvg-id="SP 2" tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="Fifa world cup - Live 🔴",SP2 
+https://tfwo3gr3uomttgr31hp3tfa3dqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=3389cfe769edf9bcd6f19c64-178128826202126&wsIPSercert=1055d19a8114b3a787596d8742e65f1e&wsBindIP=2&wsserid=1168201446950356247
+
 #EXTINF:-1 tvg-id="T Sports" tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="Fifa world cup - Live 🔴",T Sports 
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 
 #EXTINF:-1 tvg-id="T SportsBDIX" tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="Fifa world cup - Live 🔴",T Sports BDIX
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
 
 #EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFS7UQ56YfZ-B0jKqMUPY3x5pHDg0ezBabXQ&s" group-title="Fifa world cup - Live 🔴",beIN Sports Arb
 https://cdn.yallashooot.pp.ua/hls/ch1.m3u8
