@@ -9,7 +9,7 @@ http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://i.ibb.co.com/dsvVDJZs/1000284021.png" group-title="Fifa world cup - Live 🔴",PTV Sports
-http://103.204.43.87:8080/live/1/1/313.m3u8
+http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="BTV" tvg-logo="https://i.ibb.co.com/84smqMh1/1000283986.png" group-title="Fifa world cup - Live 🔴",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=2202800.m3u8
