@@ -3,7 +3,7 @@
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="Fifa world cup - Live 🔴",FIFA 
-https://toffee-seg.smartdev.workers.dev/manifest?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FFIFA-2026-4%2F0%2Fmaster_2000.m3u8&cookie=%22Expires%3D1781626615~_GO%3DGenerated~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3DAduQTZ__0TjNU4ahNuchVmcdgoXNt964j-W7GDYCpAU5IDfYQObfCeWy1O7qeiQRbCdmlGR4E3QQ1rbHHhD1-_oxofoE%22
+https://toffee-seg.smartdev.workers.dev/manifest?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FFIFA-2026%2F1%2Fmaster_1800.m3u8&cookie=%22Expires%3D1781722913~_GO%3DGenerated~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3DAduQTZ-bbQSF5LgctKuUkU6E5174QCQ2n5goNtDltHzcEiE9KJXg322OEvMmIYw1KAdsnR3XER-SAVaiOHhVfcMXMZ4E%22
 
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="Fifa world cup - Live 🔴",FIFA 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=1087600.m3u8
