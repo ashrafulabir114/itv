@@ -3,10 +3,13 @@
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="Fifa world cup - Live 🔴",FIFA 
-https://fifa.keralive.workers.dev/out/v1/4e21d5a122c549289dd6feab259266e8/index_2.m3u8
+https://bdtop1.tvhunter.top/BD/index.mpd
 
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="Fifa world cup - Live 🔴",FIFA 
 https://live05.msdht.app/live/24561735.m3u8
+
+#EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="Fifa world cup - Live 🔴",FIFA 
+http://84.17.50.102/fox/index.m3u8
 
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="Fifa world cup - Live 🔴",FIFA 
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
