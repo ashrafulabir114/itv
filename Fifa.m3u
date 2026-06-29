@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="Fifa world cup - Live 🔴",FIFA 
+https://m3u8-proxy.diptom3ow.workers.dev/out/v1/60e7608404004b1186261497b404630b/index.m3u8
 https://goo.su/PO0l2um
-https://flive.pochonderbazarbd.workers.dev/
+
 
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="Fifa world cup - Live 🔴",FIFA 
 https://live.inplyr.com/room/118206.m3u8
