@@ -6,7 +6,7 @@ http://hottest.plus:80/play/live.php?mac=00:1A:79:6D:6C:1A&stream=2077070&extens
 https://live.inplyr.com/room/118206.m3u8
 
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="Fifa world cup - Live 🔴",FIFA 
-https://monirul.bro.bd/fifa/bioscope.php
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="Fifa world cup - Live 🔴",FIFA 
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
@@ -18,10 +18,10 @@ https://stream.mosarrofsabuz.me/tsports/tracks-v1a1/mono.m3u8
 https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
 
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="Fifa world cup - Live 🔴",FIFA 
-https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index_1.m3u8
+http://172.19.17.230:8090/hls/BTVNationalHD.m3u8
 
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="Fifa world cup - Live 🔴",FIFA 
-http://212.102.34.8:9080/AndFlixHD/video.m3u8
+http://212.102.34.8:9080/AndFlixHD/video.m3u8*****
 
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="Fifa world cup - Live 🔴",FIFA 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
